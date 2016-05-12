@@ -1,0 +1,38 @@
+{
+  "name": "zingle-element",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed"
+  ],
+  "main": "zingle-element.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/zingle-element/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "8c318925b0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8c318925b0bf5e3332407a3600a40efd59a0066a"
+  },
+  "_source": "git://github.com/mdgbayly/zingle-element.git",
+  "_target": "master",
+  "_originalSource": "mdgbayly/zingle-element",
+  "_direct": true
+}
